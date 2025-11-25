@@ -5,7 +5,7 @@ int main()
 {
     
 
-    int a,b,c,d,x;
+    long long a,b,c,d,x;
     cin>>a>>b>>c>>d;
 
     x=(a*b)-(c*d);
